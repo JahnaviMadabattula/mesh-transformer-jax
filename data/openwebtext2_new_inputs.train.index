@@ -18,7 +18,6 @@ gs://neo-datasets/openwebtext2_new_inputs/train/openwebtext_10_7_100000.tfrecord
 gs://neo-datasets/openwebtext2_new_inputs/train/openwebtext_11_0_100000.tfrecords
 gs://neo-datasets/openwebtext2_new_inputs/train/openwebtext_11_1_100000.tfrecords
 gs://neo-datasets/openwebtext2_new_inputs/train/openwebtext_11_2_100000.tfrecords
-gs://neo-datasets/openwebtext2_new_inputs/train/openwebtext_11_3_100000.tfrecords
 gs://neo-datasets/openwebtext2_new_inputs/train/openwebtext_11_4_100000.tfrecords
 gs://neo-datasets/openwebtext2_new_inputs/train/openwebtext_11_5_100000.tfrecords
 gs://neo-datasets/openwebtext2_new_inputs/train/openwebtext_11_6_100000.tfrecords
